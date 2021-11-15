@@ -1,0 +1,3 @@
+The columns in data.csv are formatted as follows:
+
+stock-ticker, subreddit, start unix time, start epoch time, number of comments
