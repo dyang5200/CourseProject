@@ -1,3 +1,5 @@
-# CourseProject
+# Spicy Chicken Stock
 
-Please fork this repository and paste the github link of your fork on Microsoft CMT. Detailed instructions are on Coursera under Week 1: Course Project Overview/Week 9 Activities.
+Please open `project-report.md` to see our Week 13 Project Report.
+
+![Chicken Stock :)](https://i.pinimg.com/564x/12/b1/44/12b14490da94cc1cc3dd46a1f0014709.jpg)
