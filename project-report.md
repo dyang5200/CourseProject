@@ -3,7 +3,7 @@
 ## Progress made thus far
 
 * We have written the code to scrape posts and comments from Reddit
-* In our `data/reddit/data.csv` file, we have parsed through the comments for 1 market day (Feb 22, 2021), 1 stock (GME), and 1 subreddit (r/wallstreetbets). We counted the number of comments and put them into 15 minute interval buckets to give an example of the distribution of number of comments throughout a day. Note that we chose a day during the height of the GME craze when wallstreetbets was very active.
+* In our `data/reddit/data.csv` file, we have parsed through the comments for 1 market day (Feb 22, 2021), 2 stocks (GME, SPY), and 1 subreddit (r/wallstreetbets). We counted the number of comments and put them into 15 minute interval buckets to give an example of the distribution of number of comments throughout a day. Note that we chose a day during the height of the GME craze when wallstreetbets was very active.
 
 ## Remaining tasks
 
