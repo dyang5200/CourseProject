@@ -1,0 +1,99 @@
+/* Insert your global CSS here. */
+body {
+    font-family: Verdana;
+    color: #f7faff;
+    background-color:#2e2753;
+    margin-left: 3%;
+}
+
+.logo {
+    display:inline-block;
+}
+
+.center {
+    text-align: center;
+}
+
+#info {
+    
+    text-align: center;
+    margin: auto;
+    padding: 0 0 2em 0;
+}
+
+.head {
+    text-align: center;
+    width: 100%;
+    color: #f1d4ff;
+    margin-top:60px;
+    font-weight: 600;
+}
+
+#chicken {
+    text-align:center;
+    display: inline-block;
+    width:20%;
+    padding:0 40%;
+}
+
+.make-larger {
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+    width: 100%;
+    color: #f7faff;
+    padding: 10px;
+}
+
+#less-wide {
+    width:70%
+}
+
+.vert {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.desc {
+    width: 13%;
+}
+
+.center {
+    text-align: center;
+}
+
+.x-axis line{
+    stroke: #ffffff;
+    color:#ffffff;
+}
+
+.x-axis path{
+    stroke: #ffffff;
+    color:#ffffff;
+}
+
+.x-axis {
+    stroke: #ffffff;
+}
+
+.y-axis line{
+    stroke: #ffffff;
+    color:#ffffff;
+    font-size: 4em;
+}
+
+.y-axis path{
+    stroke: #ffffff;
+    color:#ffffff;
+}
+
+.y-axis {
+    stroke: #ffffff;
+}
+
+.row {
+    /* border: 1px solid gray; */
+    text-align: center;
+    height: 400px;
+    margin: auto;
+}

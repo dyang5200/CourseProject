@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="css/index.css">
+  <title>Spicy Chicken Stock</title>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+</head>
+
+<body>
+
+
+  <h2 class="head" left="399px">Spicy Chicken Stock</h2>
+
+  <p id="info">This is a visualization of stock price alongside stock sentiment based on subreddit.</p>
+  
+  <div class="row">
+    <div id="ticker" class="vert desc">
+      <!-- ticker list -->
+      <div class="make-larger" left="40px">Stocks</div>
+      <form>
+        <input type="radio" id="AAPL" name="ticker">
+        <label> AAPL</label><br>
+        <input type="radio" id="GME" name="ticker" checked>
+        <label> GME</label><br>
+        <input type="radio" id="SPY" name="ticker">
+        <label> S&P 500</label><br>
+        <input type="radio" id="TSLA" name="ticker">
+        <label> TSLA</label><br>
+      </form>
+    </div>
+    
+    <div id="d3" class="vert"></div>
+    
+    <div id="subreddit" class="vert desc">
+      <form>
+        <div class="make-larger">Sentiment</div>
+        <input type="radio" id="stocks" name="subreddit">
+        <label> r/stocks</label><br>
+        <input type="radio" id="wallstreetbets" name="subreddit" checked>
+        <label> r/wsb</label><br>
+      </form>
+    </div>
+  </div>
+
+  <img id="chicken" src="/images/chicken-stock.jpg">
+  
+  <script src="js/index.js"></script>
+
+</body>
+</html>
