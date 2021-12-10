@@ -15,15 +15,13 @@ Danielle - Gathered stock pricing data using the InteractiveBroker TWS API.
 
 ![Click here to see our presentation for this project.](https://i.pinimg.com/564x/12/b1/44/12b14490da94cc1cc3dd46a1f0014709.jpg)
 
-## Documentation
-
 ## How to Run the Website
 
 To launch our website, you need to host this directory on a local webserver. If you do not, then the javascript and website will not work as intended.
 
 The easiest way to do this would be to open this folder in Visual Studio Code, download the Live Server extension, and then use that extension (by clicking "Go Live" in the bottom right) to host the website locally.
 
-## How to Generate New Sentiment vs. Stock Data
+## Generating new sentiment and stock data
 
 ### Reddit Sentiment Data
 
