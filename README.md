@@ -19,7 +19,7 @@ Danielle - Gathered stock pricing data using the InteractiveBroker TWS API.
 
 To launch our website, you need to host this directory on a local webserver. If you do not, then the javascript and website will not work as intended.
 
-The easiest way to do this would be to open this folder in Visual Studio Code, download the Live Server extension, and then use that extension (by clicking "Go Live" in the bottom right) to host the website locally.
+The easiest way to do this would be to open this code as folder in Visual Studio Code, and use the "Live Server" extension (by clicking "Go Live" in the bottom right) to host the website locally.
 
 ## Generating new sentiment and stock data
 
