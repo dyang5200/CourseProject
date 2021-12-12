@@ -13,7 +13,7 @@ Danielle - Gathered stock pricing data using the InteractiveBroker TWS API.
 
 ## Presentation
 
-![Click here to see our presentation for this project.](https://i.pinimg.com/564x/12/b1/44/12b14490da94cc1cc3dd46a1f0014709.jpg)
+![Click here to see our presentation for this project.](https://youtu.be/BuUNq5WAf_0)
 
 ## How to Run the Website
 
@@ -21,14 +21,14 @@ To launch our website, you need to host this directory on a local webserver. If 
 
 The easiest way to do this would be to open this code as folder in Visual Studio Code, and use the "Live Server" extension (by clicking "Go Live" in the bottom right) to host the website locally.
 
-## Generating new sentiment and stock data
+## Documentation
 
-### Reddit Sentiment Data
+### Generating new Reddit Sentiment Data
 
 Navigate to the `scripts/reddit` folder and run `reddit.py` using Python in the terminal to generate sentiment analysis for the given parameters:
 
-### Stock Price Data
+### Generating new Stock Price Data
 
-Run `data_download.ipynb` and then `data_processing.ipynb`. In order for this to work properly, you must have an Interactive Brokers account with Level 2 Market Data enabled (required to get historical stock data), and you must download and run IB TWS with the ActiveX and DirectSocket settings enabled.
+Run `data_download.ipynb`. In order for this to work properly, you must have an Interactive Brokers account with Level 2 Market Data enabled (required to get historical stock data), and you must download and run IB TWS with the ActiveX and DirectSocket settings enabled.
 
 ![Chicken Stock :)](https://i.pinimg.com/564x/12/b1/44/12b14490da94cc1cc3dd46a1f0014709.jpg)
