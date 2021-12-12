@@ -13,7 +13,7 @@ Danielle - Gathered stock pricing data using the InteractiveBroker TWS API.
 
 ## Presentation
 
-![Click here to see our presentation for this project.](https://youtu.be/BuUNq5WAf_0)
+[Click here to see our presentation for this project.](https://youtu.be/BuUNq5WAf_0)
 
 ## How to Run the Website
 
